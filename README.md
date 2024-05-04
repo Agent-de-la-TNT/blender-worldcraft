@@ -4,35 +4,30 @@ linking to external resources instead of including content in-line.
 See 'release/text/readme.html' for the end user read-me.
 -->
 
-Blender
+Blender-Worldcraft
 =======
+A free modification of blender made to have a Worldcraft (also known as Hammer) like expeience.
+This can facilitate the creation of src engine and goldsrc engine 3D models.
+and can speed up the learning curve of the software for a person who knows well the Worldcraft tool by hammer
++ git repo is also used for testing stuff and learn how it works
 
-Blender is the free and open source 3D creation suite.
-It supports the entirety of the 3D pipeline-modeling, rigging, animation, simulation, rendering, compositing,
-motion tracking and video editing.
-
-![Blender screenshot](https://code.blender.org/wp-content/uploads/2018/12/springrg.jpg "Blender screenshot")
+Attention
+-------------
+at the hour of writing this document no changes has ben made yet to the software 
 
 Project Pages
 -------------
 
-- [Main Website](http://www.blender.org)
-- [Reference Manual](https://docs.blender.org/manual/en/latest/index.html)
-- [User Community](https://www.blender.org/community/)
+None for now
 
-Development
+Compiling
 -----------
+for now changes are compatible with the original [Build Instructions](https://developer.blender.org/docs/handbook/building_blender/)
 
-- [Build Instructions](https://developer.blender.org/docs/handbook/building_blender/)
-- [Code Review & Bug Tracker](https://projects.blender.org)
-- [Developer Forum](https://devtalk.blender.org)
-- [Developer Documentation](https://developer.blender.org/docs/)
-
-
+<!--
 License
 -------
-
-Blender as a whole is licensed under the GNU General Public License, Version 3.
+Same lisence as blender (GNU General Public License, Version 3).
 Individual files may have a different, but compatible license.
-
 See [blender.org/about/license](https://www.blender.org/about/license) for details.
+-->
