@@ -8,7 +8,7 @@ Blender-Worldcraft
 =======
 A free modification of blender made to have a Worldcraft 3.5 (also known as Hammer 3) like expeience.
 This can facilitate the creation of src engine and goldsrc engine 3D models.
-and can speed up the learning curve of the software for a person who knows well the Worldcraft tool by hammer
+and can speed up the learning curve of the software for a person who knows well the Worldcraft 3.5 tool by Valve
 + git repo is also used for testing stuff and learn how it works
 
 Attention
